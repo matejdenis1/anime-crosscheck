@@ -1,0 +1,36 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@tanstack/react-pacer": "^0.19.1",
+    "@tanstack/react-query": "^5.90.11",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.8",
+    "browser-image-compression": "^2.0.2",
+    "dompurify": "^3.3.3",
+    "fuse.js": "^7.1.0",
+    "hover.css": "^2.3.2",
+    "lucide-react": "^0.562.0",
+    "profanities": "^3.0.1",
+    "react": "^19.2.3",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.2.3",
+    "react-error-boundary": "^6.1.1",
+    "react-hot-toast": "^2.6.0",
+    "react-router-dom": "^6.25.1",
+    "react-transition-group": "^4.4.5",
+    "validator": "^13.15.15"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
